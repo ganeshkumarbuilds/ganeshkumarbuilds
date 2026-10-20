@@ -98,6 +98,12 @@ job matching, and interview preparation.
 - Solving Data Structures and Algorithms problems on LeetCode.
 - Improving algorithmic thinking and coding efficiency.
 - Continuously strengthening my programming fundamentals.
+- 
+- Solved 100+ problems on LeetCode.
+- Practicing Data Structures and Algorithms.
+- Strengthening algorithmic thinking and coding efficiency.
+
+[Visit My LeetCode Profile](https://leetcode.com/u/ZUjDlVDQ1Q/)
 
 ---
 
@@ -114,6 +120,7 @@ job matching, and interview preparation.
 
 ## 🤝 Connect With Me
 
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ganeshchavala/)
 - **GitHub:** [ganeshkumarbuilds](https://github.com/ganeshkumarbuilds)
 - **Portfolio:** [Visit My Portfolio](https://portfolio-ten-pink-aenzzw7g2e.vercel.app/)
 
